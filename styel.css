@@ -22,3 +22,8 @@ small{
 button{
     background-color: darkmagenta;
 }
+h2{
+    border: 30px 20px 30x 20px;
+    margin: 30px 30px 30px 30px;
+    border-radius: 50px;
+}
